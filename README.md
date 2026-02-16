@@ -15,6 +15,9 @@ A full-stack web application that combines note-taking with intelligent AI assis
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://rover-notes-app-jet.vercel.app)
 [![API Docs](https://img.shields.io/badge/API-Docs-blue?style=for-the-badge)](https://rover-notes-api.onrender.com/docs)
 
+## 🚀 Live Demo
+
+🔗 **Live App:** [https://rover-notes-app-jet.vercel.app/](https://rover-notes-app-jet.vercel.app/)
 ---
 
 ## 📋 Table of Contents
